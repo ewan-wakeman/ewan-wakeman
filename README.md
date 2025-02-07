@@ -1,16 +1,21 @@
-## Hi there 👋
+# I'm Ewan
+### 👨‍💻 About Me:
+- Senior Data Analyst @ [Oak National Academy](https://github.com/oaknational) 🌳
+- Former NHS England and TeachFirst
+- Data Science 🧬 and Public Good 🌱
 
-<!--
-**ewan-wakeman/ewan-wakeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Languages and Tools:
+- Python 🐍
+- SQL ❔
+- R ®️
+- … and a tiny bit of Rust 🦀 and JS ☕
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats:
+![Ewan Wakeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewan-wakeman&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewan-wakeman&layout=compact&theme=tokyonight)
+
+### 📫 Find Me @:
+- [LinkedIn](https://www.linkedin.com/in/ewan-wakeman)
+- [Twitter](https://twitter.com/ewan-wakeman)
